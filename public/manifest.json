@@ -1,0 +1,11 @@
+{
+    "name": "Collage!",
+    "version": "0.1.0",
+    "manifest_version": 1,
+    "description": "Procedural asset creation: tile, crop, deform, and CSS",
+    "icon": "/favicon.svg",
+    "author": "pillbug2",
+    "homepage_url": "https://github.com/pillbug2/owlbear-collage",
+    "background_url": "/background.html",
+    "permissions": []
+}
